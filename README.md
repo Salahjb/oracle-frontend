@@ -100,7 +100,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ### Contributors
 - [@zachary013](https://github.com/zachary013)
-- [@Sam-Jab](https://github.com/Sam-Jab)
+- [@Salahjb](https://github.com/Salahjb)
 
 ## 📝 License
 
